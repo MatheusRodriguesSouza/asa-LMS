@@ -1,0 +1,35 @@
+header{
+    background:black;
+    text-align:left;
+    color:white;
+    text-align:left;
+    font-style:arial;
+    font-size:50px;
+    
+}
+table{
+    position: relative;
+    background: aqua;
+
+}
+footer{
+    background:black;
+    text-align:center;
+    color:white;
+    text-align:center;
+    width: 100%;
+    bottom:0;
+    position:fixed;
+    font-style:arial;
+    font-size:10px;
+}
+a:hover{
+    color:red;
+    font-size:15px;
+}
+a:visited{
+    color:blueviolet;
+}
+a:link{
+    color:black;
+}

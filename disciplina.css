@@ -1,0 +1,18 @@
+h1{
+    background-color: rgb(255, 255, 255);
+    color: rgb(10, 0, 10);
+    text-align: center;
+}
+div{
+    margin: 0 auto;
+    padding: 0;
+    width: 1001px;
+    height: 320px;
+    background: blue;
+    color:rgb(19, 5, 5);
+    text-align: center;
+    }
+    p{
+        font-style: arial;
+        font-size: 150%;
+    }

@@ -1,0 +1,17 @@
+h1{
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 109, 128);
+    text-align: center;
+}
+div{
+    margin: 0 auto;
+    padding: 0;
+    width: 1001px;
+    height: 320px;
+    background: rgb(119, 3, 3);
+    color:rgb(255, 255, 255)
+    }
+    p{
+        font-style: italic;
+        font-size: 150%;
+    }

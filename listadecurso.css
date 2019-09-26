@@ -1,0 +1,19 @@
+h1{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+}
+div{
+    margin: 0 auto;
+    padding: 0;
+    width: 1001px;
+    height: 320px;
+    background: yellowgreen;
+    color:grey;
+    text-align: center;
+    }
+
+    p{
+        font-style: arial;
+        font-size: 150%;
+    }
